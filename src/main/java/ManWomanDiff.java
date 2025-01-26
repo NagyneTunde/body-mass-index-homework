@@ -64,11 +64,10 @@ public class ManWomanDiff {
                 result = "Morbidly Obese";
             }
         }
-        //Kiértékelés kiíratása
 
+        //Kiértékelés kiíratása
         System.out.println("Your Category is: " + result);
 
         scan.close();
     }
-
 }
